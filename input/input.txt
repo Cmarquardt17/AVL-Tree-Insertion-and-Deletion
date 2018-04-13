@@ -1,0 +1,12 @@
+insert 47,16,68,15,62,72,70,73,71
+find 73
+traverse 1
+traverse 2
+traverse 3
+min
+max
+show
+delete 62
+delete 71
+delete 68
+show
